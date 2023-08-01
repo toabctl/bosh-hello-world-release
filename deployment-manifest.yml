@@ -7,7 +7,7 @@ releases:
 
 stemcells:
 - alias: default
-  os: ubuntu-bionic
+  os: ubuntu-bionic-fips
   version: latest
 
 update:
