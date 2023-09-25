@@ -1,5 +1,7 @@
 # Deploy the BOSH release
 
+This is a hello world BOSH stemcell deloyment. Only used for testing!
+
 Try this:
 
 ```
